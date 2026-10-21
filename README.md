@@ -6,4 +6,4 @@ Basic C practice examples in the `c_programs/` folder.
 - `c_programs/factorial.c`
 - `c_programs/pointer_swap.c`
 
-Compile, for example, with `gcc c_programs/factorial.c -o app`. Prepared on 2026-10-21.
+Compile, for example, with `gcc c_programs/factorial.c -o app`. Prepared on 2026-10-18.
